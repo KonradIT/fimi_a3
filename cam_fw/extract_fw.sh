@@ -6,7 +6,7 @@ else
 	#Blocks:
 	#1cba74305d0491b957f1805c84e9b1cf5674002fc4f0de26905a16fb40303376187f1c35085b7455bff5c4de23cf8faa9479e4f78fd50dbf69947deb27f5d687
 	#LOCATION: SIZE:    FILENAME
-	#508       1812019  amba_ssp_svc.bin
+	#508       1812019  amba_ssp_svc.bin (.gz)
 	#1812527   1988127  dsp.bin.gz
 	#3800654   143664   rom.bin.gz
 	mkdir out/

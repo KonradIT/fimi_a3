@@ -2,6 +2,8 @@
 
 Reverse engineering the A3 drone drone firmware + camera fw + remote fw
 
+Write-up: https://medium.com/@konrad_it/brief-reverse-engineering-work-on-fimi-a3-5422d93db560
+
  - [Camera FW](/cam_fw)
  - [Drone FW](/drone_fw)
  - [Remote FW](/remotecontrol_fw)
