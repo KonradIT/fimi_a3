@@ -1,0 +1,27 @@
+[01;34m.[00m
+├── [01;34mcam_fw[00m
+│   ├── [01;32mextract_fw.sh[00m
+│   ├── [01;34mfirmware[00m
+│   │   ├── firmware.bin
+│   │   ├── rollback.txt
+│   │   └── update.txt
+│   ├── [01;31mfirmware.zip[00m
+│   └── [01;34mout[00m
+│       ├── amba_ssp_svc.bin
+│       ├── dsp.bin
+│       ├── mysql.data
+│       ├── README.md
+│       ├── rom.bin
+│       └── yaffs_fs.data
+├── download_firmwares.sh
+├── [01;34mdrone_fw[00m
+│   ├── F21A-A-V010SP12RTM181027R16987-CN-RTM_U-Release-741C119EB4D25878E21045E3F3C485D4.bin
+│   └── [01;31mf21a-a-v010sp12rtm181027r16987-cn-rtm_u-release-741c119eb4d25878e21045e3f3c485d4.zip[00m
+├── LICENSE
+├── README.md
+├── [01;34mremotecontrol_fw[00m
+│   ├── R21A-A-V010SP13RC181024R16900-CN-B_250K-Release-OTA-97B6C6C59241976086FABDC41472150C.bfu
+│   └── [01;31mr21a-a-v010sp13rc181024r16900-cn-b_250k-release-ota-97b6c6c59241976086fabdc41472150c.zip[00m
+└── tree.txt
+
+5 directories, 19 files
