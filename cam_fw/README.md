@@ -64,6 +64,7 @@ USB device test command:
 #### 1cba74305d0491b957f1805c84e9b1cf5674002fc4f0de26905a16fb40303376187f1c35085b7455bff5c4de23cf8faa9479e4f78fd50dbf69947deb27f5d687
 	
 | LOCATION: | SIZE:    | FILENAME |
+|-----------|----------|----------|
 | 508       | 1812019  | amba_ssp_svc.bin (.gz) |
 | 1812527   | 1988127  | dsp.bin.gz |
 | 3800654   | 143664   | rom.bin.gz |
@@ -71,12 +72,15 @@ USB device test command:
 #### 35685938dba73bcc354fb910ba938c9a05ea02a3ce77d883b686509045c6bb39c53b5abd36ca563f591d713168caca7b7c8307e54b2c3002edf358f6936b79e6
 
 | LOCATION: | SIZE:    | FILENAME |
+|-----------|----------|----------|
 | 508       | 4499328  | amba_ssp_svc.bin (.gz) |
 | 1812971   | 5074944  | dsp.bin.gz |
 | 3800654   | 2336768  | rom.bin.gz |
 
 #### ae0fcb4e0a37a0e9d19a3e82689c2d7bc43df3ef6922c39818641a66ea1a2e57723a194c7cbfec127349ad71b0a443b50afb856c1e1dd171a759401a65cdcb57
+
 | LOCATION: | SIZE:    | FILENAME |
+|-----------|----------|----------|
 | 508       | 4499328  | amba_ssp_svc.bin (.gz) |
 | 1812975   | 5074944  | dsp.bin.gz |
 | 3801102   | 2336768  | rom.bin.gz |
